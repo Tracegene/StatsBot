@@ -5,7 +5,7 @@ from discord.utils import get
 import datetime
 import collections
 import matplotlib.pyplot as plt
-Token = 'ODI5NzM3NTQwNzYzMjU0Nzk1.YG8fTQ.7_LQhhxtB7LhQhdinwcOJHNR5WU'
+Token = ''
 intents = discord.Intents.default()
 intents.members = True
 intents.presences = True
